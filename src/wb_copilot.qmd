@@ -1,0 +1,23 @@
+---
+title: AI-powered programming with Copilot
+author: Marie-Hélène Burle
+---
+
+:::{.def}
+
+The recent advances in generative AI have brought about a number of code generators and code-completion assistants. This webinar will give an overview of the state of the field, briefly explain the functioning of various types of tools, then focus on [GitHub Copilot](https://github.com/features/copilot/).
+
+Copilot is developed by [GitHub](https://github.com/) and [OpenAI](https://openai.com/). It is a cloud-based service requiring a subscription, but students and teachers can apply for free access. It can be used directly in the command line or as an extension to text editors such as VS Code, Emacs, or Neovim.
+
+I will demo Copilot's main features:
+
+- provide live code-completion,
+- turn comments into code,
+- translate from one programming language to another.
+
+:::
+
+[Slides](wb_copilot_slides.qmd){.btn .btn-outline-primary} [(Click and wait: this reveal.js presentation may take a little time to load.)]{.inlinenote}
+<br><br>
+
+{{< video https://www.youtube.com/embed/gvAUdhiTIME >}}

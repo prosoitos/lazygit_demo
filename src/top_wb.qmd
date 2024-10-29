@@ -1,0 +1,89 @@
+---
+title: AI webinars
+title-block-banner: true
+---
+
+:::{layout="[[5, 5, 5, 5], [5, 5, 5, 5]]"}
+
+:::{.card .mb-3}
+
+:::{.card-body2}
+
+[Map of current ML frameworks](wb_frameworks.qmd){.card-title-ws .stretched-link}
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body2}
+
+[Data & model version control](wb_dvc.qmd){.card-title-ws .stretched-link}
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body2}
+
+[Accelerated array & autodiff with JAX](jx/wb_jax.qmd){.card-title-ws .stretched-link}
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body2}
+
+[Image upscaling (super-resolution)](pt/wb_upscaling.qmd){.card-title-ws .stretched-link}
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body2}
+
+[AI-powered coding with Copilot](wb_copilot.qmd){.card-title-ws .stretched-link}
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body2}
+
+[Easier PyTorch with fastai](pt/wb_fastai.qmd){.card-title-ws .stretched-link}
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body2}
+
+[DL in Julia with Flux](wb_flux.qmd){.card-title-ws .stretched-link}
+
+:::
+
+:::
+
+:::{.card .mb-3}
+
+:::{.card-body2}
+
+[PyTorch tensors in depth](pt/wb_torchtensors.qmd){.card-title-ws .stretched-link}
+
+:::
+
+:::
+
+:::
+     

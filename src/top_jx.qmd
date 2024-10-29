@@ -1,0 +1,22 @@
+---
+title: "JAX: a framework for high-performance array computing and differentiation"
+description: An introductory course to [![](img/logo_jax.png){width="1.7em" fig-alt="noshadow"}](https://jax.readthedocs.io/)
+title-block-banner: true
+---
+
+:::{.topdef}
+
+[JAX](https://jax.readthedocs.io/) is an open source Python library for high-performance array computing and flexible automatic differentiation.
+
+High-performance computing is achieved by [asynchronous dispatch](https://en.wikipedia.org/wiki/Asynchrony_(computer_programming)), [just-in-time compilation](https://en.wikipedia.org/wiki/Just-in-time_compilation), the [XLA compiler for linear algebra](https://www.tensorflow.org/xla), and full compatibility with accelerators ([GPUs](https://en.wikipedia.org/wiki/Graphics_processing_unit) and [TPUs](https://en.wikipedia.org/wiki/Tensor_Processing_Unit)).
+
+Automatic differentiation uses [Autograd](https://github.com/hips/autograd) and works with complex control flows (conditions, recursions), second and third-order derivatives, forward and reverse modes. This makes JAX ideal for machine learning and neural network libraries such as [Flax](https://flax.readthedocs.io/en/latest/) are built on it.
+
+This course will teach you the basics of JAX and is a prerequisite for the following machine learning course on [Flax](https://flax.readthedocs.io/en/latest/).
+
+You do not need to install anything on your machine for this course as we will provide access to a temporary remote cluster.
+
+:::
+
+<br>
+[[Start course ➤](jx/jx_why.qmd)]{.topinline}
